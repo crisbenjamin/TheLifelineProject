@@ -1,0 +1,29 @@
+body {
+  background-color: #e3b69d;
+}
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Graduate&display=swap");
+@import url("https://fonts.googleapis.com/css?family=B612&display=swap");
+
+.heading {
+  font-family: "B612", sans-serif;
+  font-size: 4rem;
+  color: white;
+}
+
+.heading1 {
+  font-family: "B612", sans-serif;
+  font-size: 3rem;
+  color: white;
+}
+
+.error {
+  color: red;
+}
+
+.navbar-brand {
+  font-family: "B612", sans-serif;
+}
+
+.card-body
+@import url("https://cdn.syncfusion.com/ej2/material.css");;
